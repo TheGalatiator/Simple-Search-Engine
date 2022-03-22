@@ -8,3 +8,5 @@ Written in python and makes use of the following:
 - AVL Trees
 - Max Heaps
 - Priority Queues
+
+HOW TO USE: Type the query you wish to search for in the "queries (1).txt" file. Can support the search of several queries; do this by putting a new query on a new line.
